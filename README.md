@@ -70,7 +70,7 @@
 
 ### 📊 GitHub Activity & Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajacharyaa10surajacharyaa10&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajacharyaa10&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaniadev&theme=nord_dark) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajacharyaa10&theme=vue" width="49.5%" />
@@ -81,7 +81,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajacharyaa10&theme=tokyonight" width="100%" alt="GitHub Streak" />
 </p>
-
 ---
 
 
@@ -100,51 +99,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=surajacharyaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
-  </div>
-
-</td></tr></table>  
-
----
-
-### 📊 GitHub Activity & Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajacharyaa10
-&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph">
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AImaniadev&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surajacharyaa10
-&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surajacharyaa10
-&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surajacharyaa10
-&theme=vue" width="49.5%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surajacharyaa10
-&theme=vue" width="49.5%" />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajacharyaa10
-&theme=tokyonight" width="100%" alt="GitHub Streak" />
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="80%"/>
-</p>
-
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajacharyaa10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+    
